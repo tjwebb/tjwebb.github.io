@@ -10,11 +10,12 @@ important files. In college, I started using this as the first line of defence,
 after I accidentally deleted two days of work immediately before a meeting with
 my research advisor:
 
-```
+{% highlight bash %}
 # use trash-cli (apt-get install trash-cli) to save deleted files in "recycle
 bin"
+
 alias rm='trash-put'
-```
+{% endhighlight %}
 
 We owe this to our employers and customers, as well as ourselves. Re-doing work
 is expensive and soul-sucking. And you **will** lose or accidentally delete
