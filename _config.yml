@@ -3,7 +3,7 @@ title: tjw.io
 email: me@traviswebb.com
 description: > # this means to ignore newlines until "baseurl:"
   my initials have more syllables than my name. and other things you might find interesting.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "." # the subpath of your site, e.g. /blog/
 url: "http://tjw.io" # the base hostname & protocol for your site
 twitter_username: traviswebbusa
 github_username:  tjwebb
