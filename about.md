@@ -1,5 +1,5 @@
 ---
 layout: page
 title: About
-permalink: tjw.io
+permalink: http://tjw.io
 ---
